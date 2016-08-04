@@ -4,7 +4,9 @@ user = root
 password =root
 devMode = true
 
-domain=http://c92a4e35.ngrok.io/msg
+ammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 token=weixin123
 appId=wxc5f21a532d3381f6
