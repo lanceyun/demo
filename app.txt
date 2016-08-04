@@ -1,1 +1,17 @@
 苦尽甘来
+jdbcUrl = jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =root
+devMode = true
+
+domain=http://c92a4e35.ngrok.io/msg
+
+token=weixin123
+appId=wxc5f21a532d3381f6
+appSecret=702e35d8baa41c6fe24aac57e95e4498
+
+#appId=wx7a2acfbdb5252f68
+#appSecret=9714fa067e502c181ca40c44b3e39173
+#encryptMessage=true
+#encodingAesKey=auFqy0WZtM2Z5UXs73tWz8mMpabsXWKczou3KevY4Jd
+
